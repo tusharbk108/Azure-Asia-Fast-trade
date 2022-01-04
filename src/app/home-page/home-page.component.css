@@ -1,0 +1,43 @@
+body{
+    text-align: center;
+}
+
+table{
+    text-align: center;
+    align-items: center;
+}
+td{
+    text-align: right;
+    height: 25px;
+    color: rgb(138, 72, 53);
+    }
+th{
+    text-align: left;
+    width: 20%;
+}
+.home{
+   margin-left: auto;
+   margin-right: auto;
+}
+h1{
+    color: rgb(236, 135, 101);
+}
+a{
+    color: rgb(236, 135, 101);
+}
+.logo{
+    width: 40px;
+    height: 40px;
+    margin-left: 90%;
+    margin-top: 0%;
+    top: 0pt;
+    right: 0pt;
+}
+p{
+    color: rgb(236, 135, 101);
+    margin-left: 85%;
+    font-family: Arial, Helvetica, sans-serif;
+   font-weight: bold;
+   font-size: small;
+      
+}
